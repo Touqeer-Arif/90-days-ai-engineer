@@ -23,10 +23,10 @@ Today's focus was learning the fundamentals of Python programming, including var
 
 ## Files
 
-### `practice.py`
+### `practice.ipynb`
 Contains practice code for learning Python basics.
 
-### `mini_exercises.py`
+### `mini_exercises.ipynb`
 Contains beginner exercises such as:
 - Greeting Program
 - Age Calculator
@@ -66,22 +66,8 @@ Today I learned:
 
 ## Challenges Faced
 
-- (Write your own challenges here)
-
-Example:
 - Understanding why `input()` always returns a string.
 - Remembering when to use `int()` and `float()`.
-
----
-
-## Next Goal
-
-Tomorrow I will learn:
-
-- Operators
-- Conditional Statements (`if`, `elif`, `else`)
-- Comparison Operators
-- Logical Operators
 
 ---
 
