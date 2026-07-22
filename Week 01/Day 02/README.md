@@ -23,7 +23,7 @@ Today I learned how to use operators and conditional statements in Python to mak
 
 ## Files
 
-### practice.ipynb
+### excercises.ipynb
 
 Contains practice exercises covering:
 
@@ -37,8 +37,8 @@ Contains practice exercises covering:
 - Login System
 - Simple Calculator
 
-### exercises.ipynb
-Contains excercises that made me understand the concept very accurately and strenthen my grip over this concept.
+### `practice.ipynb`
+Contains practice code for learning Python basics.
 
 ### grade_management.py
 
