@@ -1,4 +1,4 @@
-# 🚀 90 Days AI Engineer Challenge
+# 90 Days AI Engineer Challenge
 
 Welcome to my **90 Days AI Engineer Challenge**.
 
@@ -46,18 +46,18 @@ The goal of this repository is to become job-ready as a Python Backend Developer
 
 | Week | Status |
 |-------|--------|
-| Week 1 | 🟡 In Progress |
-| Week 2 | ⏳ Upcoming |
-| Week 3 | ⏳ Upcoming |
-| Week 4 | ⏳ Upcoming |
-| Week 5 | ⏳ Upcoming |
-| Week 6 | ⏳ Upcoming |
-| Week 7 | ⏳ Upcoming |
-| Week 8 | ⏳ Upcoming |
-| Week 9 | ⏳ Upcoming |
-| Week 10 | ⏳ Upcoming |
-| Week 11 | ⏳ Upcoming |
-| Week 12 | ⏳ Upcoming |
+| Week 1 |  In Progress |
+| Week 2 |  Upcoming |
+| Week 3 |  Upcoming |
+| Week 4 |  Upcoming |
+| Week 5 |  Upcoming |
+| Week 6 |  Upcoming |
+| Week 7 |  Upcoming |
+| Week 8 |  Upcoming |
+| Week 9 |  Upcoming |
+| Week 10 | Upcoming |
+| Week 11 | Upcoming |
+| Week 12 | Upcoming |
 
 ---
 
