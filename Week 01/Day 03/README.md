@@ -68,7 +68,6 @@ Contains my personal notes and observations from today's learning.
 
 ## Challenges Faced
 
-Example:
 - Avoiding infinite loops.
 
 ---
