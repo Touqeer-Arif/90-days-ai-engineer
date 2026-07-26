@@ -49,7 +49,7 @@ A menu-driven calculator that uses separate functions for:
 - Square Root
 - Modulus
 
-### student_management.py
+### student_management_system.py
 
 A simple student management system using functions for:
 
