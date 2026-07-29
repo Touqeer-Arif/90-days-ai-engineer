@@ -46,8 +46,8 @@ The goal of this repository is to become job-ready as a Python Backend Developer
 
 | Week | Status |
 |-------|--------|
-| Week 1 |  In Progress |
-| Week 2 |  Upcoming |
+| Week 1 |  Complete |
+| Week 2 |  In Progress |
 | Week 3 |  Upcoming |
 | Week 4 |  Upcoming |
 | Week 5 |  Upcoming |
